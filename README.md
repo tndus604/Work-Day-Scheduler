@@ -1,8 +1,13 @@
 # homework05
 
+<<<<<<< HEAD
 My deployed URL: https://tndus604.github.io/Work-Day-Scheduler/
 
 ![workdayscheduler](workday_screenshot.png)
+=======
+My deployed URL:
+https://tndus604.github.io/homework05/
+>>>>>>> de5afa7486d0202457ff2f7d9b56bfe4caadbd0f
 
 # 05 Third-Party APIs: Work Day Scheduler
 
