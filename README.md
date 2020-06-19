@@ -1,5 +1,9 @@
 # homework05
 
+My deployed URL: https://tndus604.github.io/Work-Day-Scheduler/
+
+![workdayscheduler](workday_screenshot.png)
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
@@ -34,7 +38,7 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
+![day planner demo](./pethome.png)
 
 ## Review
 
